@@ -1,0 +1,196 @@
+.navbar {
+  background-color: rgb(74, 125, 164);
+ 
+
+}
+
+.collapse {
+  color: white;
+
+}
+
+.nav-link {
+  color: white;
+}
+
+.main {
+
+  height: 150px;
+  text-align: center;
+  padding: 40px;
+
+}
+
+.main:hover {
+  color: rgb(24, 102, 197);
+}
+
+
+.dnk1{
+  display: flex;
+  justify-content: space-around;
+}
+
+.subscribe1 {
+  background-color: #0693e3;
+  ;
+  color: white;
+  height: 40px;
+  width: 160px;
+  border: none;
+  font-size: 20px;
+  /* margin-top: 20px; */
+
+}
+
+.email {
+
+  height: 40px;
+  width: 250px;
+  padding-left: 15px;
+}
+
+.horiz-row {
+  width: 100%;
+}
+
+.icons {
+  /* margin-left: 50%; */
+
+}
+
+.card-img-top {
+  height: 80px;
+  width: 80px;
+}
+
+.cardss {
+  height: 290px;
+  width: 270px;
+  border: 1px solid rgb(193, 188, 188);
+  border-radius: 25px;
+  text-align: center;
+  margin-left: 90px;
+
+
+
+
+}
+
+.feature {
+
+  text-align: center;
+  margin-top: 60px;
+
+}
+
+.hori-row {
+  width: 160px;
+  margin-left: 45%;
+  background-color: blue;
+}
+
+.n-head {
+  color: aliceblue;
+}
+
+.Edit {
+  width: 800px;
+  height: 420px;
+  border: 1px solid black;
+  text-align: center;
+  margin-left: 25%;
+  margin-top: 10%;
+  align-items: center;
+}
+
+.Login-form {
+  width: 500px;
+  height: 400px;
+  line-height: 2;
+  margin-left: 35%;
+  border: 2px solid gray;
+  border-radius: 20px;
+  text-align: center;
+  background-color: cadetblue;
+  margin-top: 10%;
+}
+
+.cart {
+  background-color: darksalmon;
+}
+
+/* .backimg{
+  position: fixed;
+  top: 0;
+  z-index: -1;
+
+} */
+.cart1 {
+  height: 500px;
+  width: 1000px;
+}
+
+.t-row {
+
+  border: 1px solid black;
+}
+
+.main-table {
+  width: 900px;
+}
+
+
+.main-table1 {
+  width: 500px;
+
+}
+
+.checkout {
+  width: 500px;
+  border: none;
+}
+
+.cuppon1 {
+  background-color: rgb(52, 168, 240);
+}
+
+.cuppon {
+  background-color: rgb(33, 158, 236);
+}
+
+.checkout {
+  background-color: rgb(63, 164, 227);
+}
+
+.numbers {
+
+  position: absolute;
+  background-color: White;
+  border-radius: 50%;
+  display: inline-block;
+  text-align: center;
+  Color: red;
+  width: 1.1em;
+  height: 1.1em;
+  line-height: 1em;
+  margin-left: 1280px;
+  margin-bottom: 20px;
+}
+.shipping{
+  padding: 130px;
+  justify-content: space-between;
+  text-align: center;
+  line-height: 2;
+
+  
+}
+.icons{
+  height: 60px;
+  padding-bottom: 20px;
+
+}
+.braclet{
+  height: 200px;
+  width: 350px;
+}
