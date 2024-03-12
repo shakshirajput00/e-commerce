@@ -36,6 +36,11 @@ const Nav = ({ addcart }) => {
                   MEN{" "}
                 </Link>
               </li>
+              <li className="nav-item n-head">
+                <Link className="text-white text-decoration-none" to="/Men/id">
+                  test{" "}
+                </Link>
+              </li>
               <li className="nav-item">
                 <Link className="text-white text-decoration-none" to="/accessories">
                   ACCESSORIES
